@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.img-sizing-thumbnail {
+  width: 300px;
+  height: 200px;
+  cursor: pointer;
+}
+.popup-container {
+  background-color: #ffffff;
+  width: 250px;
+  height: 150px;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.button-right {
+  text-align: right;
+}
+.video-center {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
